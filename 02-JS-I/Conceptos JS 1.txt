@@ -1,0 +1,5 @@
+Variables: Una forma de almacenar valor.
+String: Una variable de tipo texto. Van entre comillas.
+Funciones(argumentos,return): Son objetos invocables que pueden tener 1 o mas argumentos y que suelen devolver algo con return.
+Declaracion(if):Si estamos dentro de un if la unica forma de sacar datos de la funcion seria con un return.
+Valores booleanos (true, false): solo hay 2 valores true o false, como en binario 0 y 1, activar o desactivar, verdadero o falso.
