@@ -1,0 +1,4 @@
+for: es una funcion de loop que sirve cuando sabemos exactamente cuando parar el loop.
+&&: sirve para comparar y solo da true si los 2 argumentos son true.
+||: sirve para comparar y da true siempre y cuando 1 argumento sea true.
+!: sirve para negar algo.
