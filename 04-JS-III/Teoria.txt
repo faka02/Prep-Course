@@ -1,0 +1,1 @@
+Arrays: Son contenedores de datos, ya sea strings, enteros o booleanos,etc. A los cuales se puede acceder, modificar, etc.
