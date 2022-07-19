@@ -1,0 +1,5 @@
+Objetos: Es una coleccion de propiedades.
+Propiedades: Es una asociacion entre un nombre y un valor.
+Metodos: Son funciones guardadas dentro de un objeto.
+Bucle 'for... in': Es un bucle for con diferente sintaxis para recorrer las claves de un objeto.
+Bracket vs dot notation: dot notation es mas rapida y facil de escribir pero no se puede usar con variables, etc.
