@@ -1,0 +1,2 @@
+prototype: Es donde se pueden guardar metodos que los objetos de cierta clase pueden usar sin necesidad de crearlas en cada objeto.
+Constructors (de Clases): Son creadores de objetos con parametros especificos.
